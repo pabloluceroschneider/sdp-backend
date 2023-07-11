@@ -2,8 +2,8 @@
 <div align="center">
  
   # SDP - Backend
-  
-  <img width="600" src="https://github.com/pabloluceroschneider/sdp-backend/assets/43233080/ab50da13-5a2b-4c4f-a218-ae9124c41668" />
+
+  <img width="360" src="https://github.com/pabloluceroschneider/sdp-backend/assets/43233080/0ffcbfb9-4127-415e-a7b3-e7e20fd3b3e0" />
   
 </div>
 
